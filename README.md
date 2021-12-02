@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p>
+<img alt="Blender" src="icon/blender_icon_32x32.png" />
+</p>
