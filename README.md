@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <p>
-<img alt="Blender" src="icon/blender_icon_32x32.png" />
+🍉 Skills:<img alt="Blender" src="icon/blender_icon_32x32.png" />
 </p>
