@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 🍉 Skills: <img alt="Blender" src="icon/blender_icon_32x32.png" />&ensp;&ensp;<img alt="Cpp" src="icon/icons8-c++-36.png" />
 &ensp;&ensp;<img alt="OpenGL" src="icon/OpenGL.png" />
 
-Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!
+Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!Up!
 </p>
